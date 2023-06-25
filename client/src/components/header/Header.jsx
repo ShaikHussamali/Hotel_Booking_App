@@ -86,7 +86,7 @@ const Header = ({ type }) => {
         {type !== "list" && (
           <>
             <h1 className="headerTitle">
-              A lifetime of discounts? It's Genius.
+            "A Luxurious Stay Awaits: Book Your Perfect Hotel Experience Today!"
             </h1>
             <p className="headerDesc">
               Get rewarded for your travels – unlock instant savings of 10% or
